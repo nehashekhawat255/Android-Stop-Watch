@@ -33,14 +33,3 @@ To run the app on your local machine, follow these steps:
 - Managing time calculations using Java.
 - Gaining a foundational understanding of Android app structure.
 
-## Contributing
-
-Contributions are welcome! If you find bugs or want to enhance the app, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Enjoy your exploration of Android app development using Java with this basic stopwatch app! If you have any questions or ideas, please don't hesitate to get in touch.
